@@ -1,6 +1,4 @@
-# Coffee-Sales-Analysis
-Excel dashboard and raw data for Coffee Sales Analysis project
-readme_content = """
+
 # Coffee Sales Analysis  
 
 ## 📊 Project Overview  
